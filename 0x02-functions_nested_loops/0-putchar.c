@@ -1,12 +1,12 @@
 #include <stdio.h>
-#include "master.h"
+#include "main.h"
 
 /**
- * master - checks for specific char
+ * main - checks for specific char
  * Return: 0 when succesful
  */
 
-int master(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
